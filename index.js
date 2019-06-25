@@ -9,3 +9,11 @@ function sayHey() {
 function sayHeyFriend(name) {
   return `Hey, ${name}!`
 }
+
+function favoriteIceCream(name) {
+  `I love ${name}`
+}
+
+function shouting(string) {
+  return string.
+}
